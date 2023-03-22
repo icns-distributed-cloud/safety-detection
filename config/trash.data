@@ -1,0 +1,4 @@
+classes=28
+train=data/trash/train.txt
+valid=data/trash/valid.txt
+names=data/trash/classes.names

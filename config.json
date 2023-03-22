@@ -1,0 +1,15 @@
+{
+    "db": {
+        "host": "",
+        "port": 1111,
+        "user": "",
+        "password": "",
+        "db": ""
+    },
+    "abnormal": {
+        "resturl": "",
+        "websocketurl": ""
+    }
+}
+
+

@@ -1,0 +1,8 @@
+classes=2
+train=data/helmet/train.txt
+valid=data/helmet/valid.txt
+names=data/helmet/helmet.names
+
+
+
+
